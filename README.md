@@ -6,7 +6,7 @@ A web-based serverless to-do application built entirely on AWS Free Tier service
 
 Create a fully functional, serverless to-do application where users can manage tasks through a web interface. This project demonstrates the use of AWS Lambda, API Gateway, S3, and DynamoDB to build scalable, cost-efficient applications.
 
-## AWS Services Used
+## AWS Services
 
 - **S3** – Host the frontend HTML, CSS, and JavaScript files.  
 - **API Gateway** – Expose RESTful API endpoints for task operations.  
